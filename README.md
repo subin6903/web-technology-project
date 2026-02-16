@@ -1,1 +1,1 @@
-http://127.0.0.1:5500/index.html
+https://subin6903.github.io/web-technology-project/
